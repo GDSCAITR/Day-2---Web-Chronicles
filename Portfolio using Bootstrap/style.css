@@ -1,0 +1,20 @@
+body{
+    background-color: #313142;
+}
+nav{
+    border-bottom: 2px solid;
+}
+
+.me-img{
+    width:auto;
+    height: 40rem;
+}
+
+.about{
+    background-color: #0b1c2c;
+    border-radius: .25rem;
+}
+.img-about{
+    width: auto;
+    height: 30rem;
+}
